@@ -84,3 +84,27 @@ http://fl3.moveonjoy.com/TNT/index.m3u8
 http://fl4.moveonjoy.com/TNT/index.m3u8
 http://fl5.moveonjoy.com/TNT/index.m3u8
 http://fl6.moveonjoy.com/TNT/index.m3u8
+
+#EXTINF:-1 group-title="Events" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 1",MLB 1
+http://fl1.moveonjoy.com/MLB_1/index.m3u8
+http://fl2.moveonjoy.com/MLB_1/index.m3u8
+http://fl3.moveonjoy.com/MLB_1/index.m3u8
+http://fl4.moveonjoy.com/MLB_1/index.m3u8
+http://fl5.moveonjoy.com/MLB_1/index.m3u8
+http://fl6.moveonjoy.com/MLB_1/index.m3u8
+
+#EXTINF:-1 group-title="Events" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 2",MLB 2
+http://fl1.moveonjoy.com/MLB_2/index.m3u8
+http://fl2.moveonjoy.com/MLB_2/index.m3u8
+http://fl3.moveonjoy.com/MLB_2/index.m3u8
+http://fl4.moveonjoy.com/MLB_2/index.m3u8
+http://fl5.moveonjoy.com/MLB_2/index.m3u8
+http://fl6.moveonjoy.com/MLB_2/index.m3u8
+
+#EXTINF:-1 group-title="Events" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 3",MLB 3
+http://fl1.moveonjoy.com/MLB_3/index.m3u8
+http://fl2.moveonjoy.com/MLB_3/index.m3u8
+http://fl3.moveonjoy.com/MLB_3/index.m3u8
+http://fl4.moveonjoy.com/MLB_3/index.m3u8
+http://fl5.moveonjoy.com/MLB_3/index.m3u8
+http://fl6.moveonjoy.com/MLB_3/index.m3u8
