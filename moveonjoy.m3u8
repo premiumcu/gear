@@ -391,7 +391,12 @@ http://fl6.moveonjoy.com/MLB_3/index.m3u8
 http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Motor.Trend.HD.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" tvg-name="MotorTrend",MotorTrend
+http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+http://fl3.moveonjoy.com/MOTOR_TREND/index.m3u8
+http://fl4.moveonjoy.com/MOTOR_TREND/index.m3u8
+http://fl5.moveonjoy.com/MOTOR_TREND/index.m3u8
+http://fl6.moveonjoy.com/MOTOR_TREND/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-name="MSG",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
