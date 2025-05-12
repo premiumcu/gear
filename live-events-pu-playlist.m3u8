@@ -4,6 +4,17 @@
 
 ###TESTING###
 
+#EXTINF:-1 group-title="Movies" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://fl3.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://fl4.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://fl6.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/AMC/index.m3u8
+http://fl1.moveonjoy.com/AMC_EAST/index.m3u8
+
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" tvg-name="FXX",FXX
 http://fl1.moveonjoy.com/FXX/index.m3u8
 http://fl2.moveonjoy.com/FXX/index.m3u8
