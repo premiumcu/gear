@@ -32,13 +32,6 @@ http://fl4.moveonjoy.com/SNY/index.m3u8
 http://fl5.moveonjoy.com/SNY/index.m3u8
 http://fl6.moveonjoy.com/SNY/index.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-id="Science.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" tvg-name="Discovery Science",Discovery Science
-http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
-http://fl2.moveonjoy.com/Discovery_Science/index.m3u8
-http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-http://fl4.moveonjoy.com/Discovery_Science/index.m3u8
-http://fl5.moveonjoy.com/Discovery_Science/index.m3u8
-http://fl6.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPN
 http://fl1.moveonjoy.com/ESPN/index.m3u8
