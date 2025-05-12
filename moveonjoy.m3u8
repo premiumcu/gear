@@ -369,29 +369,11 @@ http://fl1.moveonjoy.com/EPIX_2/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-marquee-us.png?raw=true" tvg-name="MGM+ MARQUEE",MGM+ MARQUEE Down-Channel
 
-#EXTINF:-1 group-title="Events" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 1",MLB 1
-http://fl1.moveonjoy.com/MLB_1/index.m3u8
-http://fl2.moveonjoy.com/MLB_1/index.m3u8
-http://fl3.moveonjoy.com/MLB_1/index.m3u8
-http://fl4.moveonjoy.com/MLB_1/index.m3u8
-http://fl5.moveonjoy.com/MLB_1/index.m3u8
-http://fl6.moveonjoy.com/MLB_1/index.m3u8
+#EXTINF:-1 group-title="Events" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 1",MLB 1 Down-Channel
 
-#EXTINF:-1 group-title="Events" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 2",MLB 2
-http://fl1.moveonjoy.com/MLB_2/index.m3u8
-http://fl2.moveonjoy.com/MLB_2/index.m3u8
-http://fl3.moveonjoy.com/MLB_2/index.m3u8
-http://fl4.moveonjoy.com/MLB_2/index.m3u8
-http://fl5.moveonjoy.com/MLB_2/index.m3u8
-http://fl6.moveonjoy.com/MLB_2/index.m3u8
+#EXTINF:-1 group-title="Events" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 2",MLB 2 Down-Channel
 
-#EXTINF:-1 group-title="Events" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 3",MLB 3
-http://fl1.moveonjoy.com/MLB_3/index.m3u8
-http://fl2.moveonjoy.com/MLB_3/index.m3u8
-http://fl3.moveonjoy.com/MLB_3/index.m3u8
-http://fl4.moveonjoy.com/MLB_3/index.m3u8
-http://fl5.moveonjoy.com/MLB_3/index.m3u8
-http://fl6.moveonjoy.com/MLB_3/index.m3u8
+#EXTINF:-1 group-title="Events" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 3",MLB 3 Down-Channel
 
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" tvg-name="MLB Network",MLB Network
 http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
