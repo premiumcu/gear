@@ -77,4 +77,10 @@ http://fl4.moveonjoy.com/STARZ_ENCORE/index.m3u8
 http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
 http://fl6.moveonjoy.com/STARZ_ENCORE/index.m3u8
 
-
+#EXTINF:-1 group-title="Entertainment" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
+http://fl1.moveonjoy.com/TNT/index.m3u8
+http://fl2.moveonjoy.com/TNT/index.m3u8
+http://fl3.moveonjoy.com/TNT/index.m3u8
+http://fl4.moveonjoy.com/TNT/index.m3u8
+http://fl5.moveonjoy.com/TNT/index.m3u8
+http://fl6.moveonjoy.com/TNT/index.m3u8
