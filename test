@@ -168,6 +168,8 @@ http://fl1.moveonjoy.com/NFL_3/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 4",NFL 4
 http://fl1.moveonjoy.com/NFL_4/index.m3u8
+http://fl2.moveonjoy.com/NFL_4/index.m3u8
+http://fl3.moveonjoy.com/NFL_4/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 5",NFL 5
 http://fl2.moveonjoy.com/NFL_5/index.m3u8
