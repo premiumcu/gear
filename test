@@ -154,6 +154,14 @@ http://fl5.moveonjoy.com/NBA_10/index.m3u8
 #EXTINF:-1 group-title="Events" tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 11",NBA 11
 http://fl5.moveonjoy.com/NBA_11/index.m3u8
 
+#EXTINF:-1 group-title="Events" tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 12",NBA 12
+http://fl1.moveonjoy.com/NBA_12/index.m3u8
+http://fl2.moveonjoy.com/NBA_12/index.m3u8
+http://fl3.moveonjoy.com/NBA_12/index.m3u8
+http://fl4.moveonjoy.com/NBA_12/index.m3u8
+http://fl5.moveonjoy.com/NBA_12/index.m3u8
+http://fl6.moveonjoy.com/NBA_12/index.m3u8
+
 #EXTINF:-1 group-title="Events" tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 13",NBA 13
 http://fl1.moveonjoy.com/NBA_13/index.m3u8
 
@@ -206,10 +214,10 @@ http://fl3.moveonjoy.com/NFL_15/index.m3u8
 http://fl1.moveonjoy.com/NHL_1/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 2",NHL 2
-http://fl3.moveonjoy.com/NHL_2/index.m3u8
+http://fl4.moveonjoy.com/NHL_2/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 3",NHL 3
-http://fl3.moveonjoy.com/NHL_3/index.m3u8
+http://fl4.moveonjoy.com/NHL_3/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 4",NHL 4
 http://fl1.moveonjoy.com/NHL_4/index.m3u8
