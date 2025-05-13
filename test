@@ -67,17 +67,11 @@ http://fl6.moveonjoy.com/STARZ_ENCORE/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
 http://fl1.moveonjoy.com/TNT/index.m3u8
-http://fl2.moveonjoy.com/TNT/index.m3u8
 http://fl3.moveonjoy.com/TNT/index.m3u8
 http://fl4.moveonjoy.com/TNT/index.m3u8
 http://fl5.moveonjoy.com/TNT/index.m3u8
 http://fl6.moveonjoy.com/TNT/index.m3u8
-http://fl1.moveonjoy.com/TNTEAST/index.m3u8
-http://fl2.moveonjoy.com/TNTEAST/index.m3u8
-http://fl3.moveonjoy.com/TNTEAST/index.m3u8
-http://fl4.moveonjoy.com/TNTEAST/index.m3u8
-http://fl5.moveonjoy.com/TNTEAST/index.m3u8
-http://fl6.moveonjoy.com/TNTEAST/index.m3u8
+
 
 #EXTINF:-1 group-title="Events" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 1",MLB 1
 http://fl1.moveonjoy.com/MLB_1/index.m3u8
@@ -156,11 +150,6 @@ http://fl5.moveonjoy.com/NBA_11/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 12",NBA 12
 http://fl1.moveonjoy.com/NBA_12/index.m3u8
-http://fl2.moveonjoy.com/NBA_12/index.m3u8
-http://fl3.moveonjoy.com/NBA_12/index.m3u8
-http://fl4.moveonjoy.com/NBA_12/index.m3u8
-http://fl5.moveonjoy.com/NBA_12/index.m3u8
-http://fl6.moveonjoy.com/NBA_12/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 13",NBA 13
 http://fl1.moveonjoy.com/NBA_13/index.m3u8
@@ -214,10 +203,10 @@ http://fl3.moveonjoy.com/NFL_15/index.m3u8
 http://fl1.moveonjoy.com/NHL_1/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 2",NHL 2
-http://fl4.moveonjoy.com/NHL_2/index.m3u8
+http://fl5.moveonjoy.com/NHL_2/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 3",NHL 3
-http://fl4.moveonjoy.com/NHL_3/index.m3u8
+http://fl5.moveonjoy.com/NHL_3/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 4",NHL 4
 http://fl1.moveonjoy.com/NHL_4/index.m3u8
@@ -265,7 +254,7 @@ http://fl1.moveonjoy.com/PPV_4/index.m3u8
 http://fl1.moveonjoy.com/PPV_5/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://codeberg.org/pigzillaaa/moveonjoy-stremio/raw/branch/main/logos/PPV%206.png" tvg-name="PPV 6",PPV 6
-http://fl1.moveonjoy.com/PPV_6/index.m3u8
+http://fl3.moveonjoy.com/PPV_6/index.m3u8
 
 
 
