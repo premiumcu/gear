@@ -54,6 +54,8 @@ http://fl6.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW)
 http://fl1.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
 http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
+http://fl1.moveonjoy.com/FOXSOCCERPLUS/index.m3u8
+http://fl2.moveonjoy.com/FOXSOCCERPLUS/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.Encore.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" tvg-name="Starz Encore",Starz Encore
 http://fl1.moveonjoy.com/STARZ_ENCORE/index.m3u8
