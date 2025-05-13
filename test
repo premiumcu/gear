@@ -118,13 +118,6 @@ http://fl4.moveonjoy.com/TV_Land/index.m3u8
 http://fl5.moveonjoy.com/TV_Land/index.m3u8
 http://fl6.moveonjoy.com/TV_Land/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="FX.Networks.East.Coast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" tvg-name="FX",FX
-http://fl1.moveonjoy.com/FX/index.m3u8
-http://fl2.moveonjoy.com/FX/index.m3u8
-http://fl3.moveonjoy.com/FX/index.m3u8
-http://fl4.moveonjoy.com/FX/index.m3u8
-http://fl5.moveonjoy.com/FX/index.m3u8
-http://fl6.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 1",NBA 1
 http://fl5.moveonjoy.com/NBA_1/index.m3u8
