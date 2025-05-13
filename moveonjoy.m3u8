@@ -264,6 +264,9 @@ http://fl1.moveonjoy.com/FX/index.m3u8
 http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" tvg-name="FXX",FXX
+http://fl1.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" tvg-name="FXX",FXX
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
