@@ -176,18 +176,28 @@ http://fl2.moveonjoy.com/NFL_5/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 6",NFL 6
 http://fl1.moveonjoy.com/NFL_6/index.m3u8
+http://fl2.moveonjoy.com/NFL_6/index.m3u8
+http://fl3.moveonjoy.com/NFL_6/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 7",NFL 7
 http://fl1.moveonjoy.com/NFL_7/index.m3u8
+http://fl2.moveonjoy.com/NFL_7/index.m3u8
+http://fl3.moveonjoy.com/NFL_7/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 8",NFL 8
 http://fl1.moveonjoy.com/NFL_8/index.m3u8
+http://fl2.moveonjoy.com/NFL_8/index.m3u8
+http://fl3.moveonjoy.com/NFL_8/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 9",NFL 9
 http://fl1.moveonjoy.com/NFL_9/index.m3u8
+http://fl2.moveonjoy.com/NFL_9/index.m3u8
+http://fl3.moveonjoy.com/NFL_9/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFl 10",NFL 10
 http://fl1.moveonjoy.com/NFL_10/index.m3u8
+http://fl2.moveonjoy.com/NFL_10/index.m3u8
+http://fl3.moveonjoy.com/NFL_10/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 11",NFL 11
 http://fl1.moveonjoy.com/NFL_11/index.m3u8
