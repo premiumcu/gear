@@ -215,7 +215,8 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
 http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="Fox.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" tvg-name="FOX News Channel",FOX News Channel Down-Channel
+#EXTINF:-1 group-title="News" tvg-id="Fox.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" tvg-name="FOX News Channel",FOX News Channel
+http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="Fox.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" tvg-name="FOX News Channel",FOX News Channel
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
@@ -490,6 +491,7 @@ http://fl1.moveonjoy.com/REELZ/index.m3u8
 http://fl1.moveonjoy.com/REVOLT/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SEC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network",SEC Network Down-Channel
+http://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SEC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network",SEC Network
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
@@ -536,6 +538,7 @@ http://fl1.moveonjoy.com/SNY/index.m3u8
 https://zekonew.newkso.ru/zeko/premium759/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",Stadium Down-Channel
+http://fl1.moveonjoy.com/STADIUM/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Start.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV",Start TV
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
