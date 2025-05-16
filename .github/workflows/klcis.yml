@@ -1,0 +1,57 @@
+name: klcis
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+env:
+  m_filename: klcis.m3u8
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+jobs:
+  fetch_m3u8_job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install aiohttp beautifulsoup4
+
+      - name: Run Python Script
+        run: |
+          curl -f -o klcis.py "${{ secrets.KLCIS_URL }}"
+          python klcis.py
+
+          curl -f -o klcis_match.py "${{ secrets.KLCIS_MATCH_URL }}"
+          python klcis_match.py
+
+      - name: Log the downloaded M3U8 file details
+        run: |
+          for file in "${{ env.m_filename }}"; do
+            if [ -f "$file" ]; then
+              echo "$file downloaded successfully."
+              ls -lh "$file"
+            else
+              echo "Failed to download $file."
+            fi
+          done
+
+      - name: Commit and push the M3U8 files
+        run: |
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          
+          git add "${{ env.m_filename }}"
+          git diff --staged --quiet || git commit -m "Update M3U8 files"
+          git push --force
+        
