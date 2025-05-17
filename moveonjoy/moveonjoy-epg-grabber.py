@@ -80,6 +80,7 @@ urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz',
