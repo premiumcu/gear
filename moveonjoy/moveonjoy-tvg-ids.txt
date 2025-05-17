@@ -206,6 +206,38 @@ Universal.Kids.us
 
 
 
+Sky.Atlantic.HD.uk
+Sky.Comedy.HD.uk
+SkySp.F1.HD.uk
+SkySpMainEvHD.uk
+SkyCinemaAction.uk
+SkyCinemaAnimation.uk
+Sky.Comedy.Cinema.uk
+SkyCinemaDrama.uk
+SkyCinemaFamily.uk
+SkyCinemaGreats.uk
+SkyCinemaPremiere.uk
+SkyCinemaThriller.uk
+SkyMax.uk
+TNT.Sports.1.HD.uk
+TNT.Sports.2.HD.uk
+NT.Sports.3.HD.uk
+TNT.Sports.4.HD.uk
+TNT.Sports.5.HD.uk
+
+
+
+Sky.Sport.F1.it
+Sky.Cinema.Action.it
+Sky.Cinema.Collection.it
+Sky.Cinema.Comedy.it
+Sky.Cinema.Drama.it
+Sky.Cinema.Due.it
+Sky.Cinema.Family.it
+Sky.Cinema.Romance.it
+Sky.Cinema.Suspense.it
+Sky.Cinema.Uno.it
+
 
 
 
