@@ -215,6 +215,7 @@ SkyCinemaAnimation.uk
 SkyAnimationHD.uk
 Sky.Comedy.Cinema.uk
 SkyCinemaDrama.uk
+Sky.Drama.HD.uk
 SkyCinemaFamily.uk
 SkyCinemaGreats.uk
 SkyCinemaPremiere.uk
