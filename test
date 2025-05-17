@@ -4,6 +4,14 @@
 
 #EXTINF:-1 STREAM FINDER
 
+#EXTINF:-1 group-title="Movies" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
+http://fl1.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+http://fl2.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+http://fl4.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+http://fl5.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+http://fl6.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+
 
 #EXTINF:-1 group-title="Movies" tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1
 http://fl1.moveonjoy.com/CRAVE_1/index.m3u8
