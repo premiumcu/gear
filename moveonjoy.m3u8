@@ -453,7 +453,7 @@ https://ott-s3.udptv.net/stream/sky/skycinemaaction/master.m3u8?u=discord.gg/civ
 #EXTINF:-1  tvg-name="Sky Cinema Action UK" tvg-id="SkyCinemaAction.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-action-uk.png" group-title="MOVIES",Sky Cinema Action UK
 https://ott.djdoolky76.net/stream/skyuk/skycinemaaction/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1  tvg-name="Sky Cinema Animation UK" tvg-id="SkyCinemaAnimation.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="MOVIES",Sky Cinema Animation UK
+#EXTINF:-1  tvg-name="Sky Cinema Animation UK" tvg-id="SkyAnimationHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="MOVIES",Sky Cinema Animation UK
 https://ott.djdoolky76.net/stream/skyuk/skycinemaanimation/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
 #EXTINF:-1  tvg-name="Sky Cinema Book to Screen UK" tvg-id="skyuk/skycinemabooktoscreen" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-kids-books-uk.png" group-title="MOVIES",Sky Cinema Book to Screen UK
