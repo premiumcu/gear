@@ -212,6 +212,7 @@ SkySp.F1.HD.uk
 SkySpMainEvHD.uk
 SkyCinemaAction.uk
 SkyCinemaAnimation.uk
+SkyAnimationHD.uk
 Sky.Comedy.Cinema.uk
 SkyCinemaDrama.uk
 SkyCinemaFamily.uk
@@ -228,6 +229,7 @@ TNT.Sports.5.HD.uk
 
 
 Sky.Sport.F1.it
+Sky.Atlantic.it
 Sky.Cinema.Action.it
 Sky.Cinema.Collection.it
 Sky.Cinema.Comedy.it
