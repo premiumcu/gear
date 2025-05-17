@@ -518,9 +518,6 @@ https://ott-s3.udptv.net/stream/sky/skycinemacollection/master.m3u8?u=discord.gg
 #EXTINF:-1  tvg-name="Sky Cinema Comedy" tvg-id="Sky.Cinema.Comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-hz-it.png" group-title="MOVIES",Sky Cinema Comedy
 https://ott-s3.udptv.net/stream/sky/skycinemacomedy/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1  tvg-name="Sky Cinema Comedy UK" tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="MOVIES",Sky Cinema Comedy UK
-https://ott.djdoolky76.net/stream/skyuk/skycinemacomedy/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-
 #EXTINF:-1  tvg-name="Sky Cinema Drama" tvg-id="Sky.Cinema.Drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-hz-it.png" group-title="MOVIES",Sky Cinema Drama
 https://ott-s3.udptv.net/stream/sky/skycinemadrama/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
@@ -550,9 +547,6 @@ https://ott.djdoolky76.net/stream/skyuk/skycinemascares/master.m3u8?u=discord.gg
 
 #EXTINF:-1  tvg-name="Sky Cinema Suspence" tvg-id="Sky.Cinema.Suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-hz-it.png" group-title="MOVIES",Sky Cinema Suspence
 https://ott-s3.udptv.net/stream/sky/skycinemasuspence/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-
-#EXTINF:-1  tvg-name="Sky Cinema Thriller UK" tvg-id="SkyCinemaThriller.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-uk.png" group-title="MOVIES",Sky Cinema Thriller UK
-https://ott.djdoolky76.net/stream/skyuk/skycinemathriller/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
 #EXTINF:-1  tvg-name="Sky Cinema Uno" tvg-id="Sky.Cinema.Uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-hz-it.png" group-title="MOVIES",Sky Cinema Uno
 https://ott-s3.udptv.net/stream/sky/skycinemauno/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
