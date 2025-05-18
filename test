@@ -5,7 +5,10 @@
 #EXTINF:-1 STREAM FINDER
 
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="" tvg-name="",AMC
-https://nfsnew.newkso.ru/nfs/premium303/mono.m3u8|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0&Referer=https%3A%2F%2Falldownplay.xyz%2F
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium303/mono.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.Encore.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" tvg-name="Starz Encore",Starz Encore
 http://fl1.moveonjoy.com/STARZ_ENCORE/index.m3u8
