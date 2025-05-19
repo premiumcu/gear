@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcu/gear/refs/heads/main/epgs/moveonjoy-epg.xml"
+
 #EXTINF:-1_TEST
 http://143.244.60.30/ACC_NETWORK/index.m3u8
 http://143.244.60.30/BBC_AMERICA/index.m3u8
