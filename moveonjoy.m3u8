@@ -322,7 +322,7 @@ http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" tvg-name="MGM+ HITS",MGM+ HITS
 http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" tvg-name="MGM+ HITS",MGM+ HITS (Stream 2)
+#EXTINF:-1 group-title="Movies" tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" tvg-name="MGM+ HITS",MGM+ HITS 
 http://fl1.moveonjoy.com/EPIX_2/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" tvg-name="MLB Network",MLB Network
@@ -363,9 +363,6 @@ http://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV",NBA TV
 http://fl1.moveonjoy.com/NBA_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV",NBA TV (Stream 2)
-http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="NBC",NBC
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
